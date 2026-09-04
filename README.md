@@ -92,7 +92,7 @@ For 1.0.0 to be released: to have it stable, verified, tested, liked and recomme
 
 ### Current hardware and costs
 
-Intel Core Ultra 7 270K Plus and 32GB 7200Mhz DDR5 to compile the linux-cachyos kernels in x86_64, x86_64-v3, x86_64-v4 and x86_64-znver4 - dontletmywifeknowwhatthispccostintotal.99€ yearly
+Intel Core Ultra 7 270K Plus and 32GB 7200Mhz DDR5 to compile the linux-cachyos kernels in x86_64, x86_64-v3, x86_64-v4 and x86_64-znver4
 
 Hetzner Webhosting L + .org domain to host the website plus the four repositories - 136.65€ yearly
 
