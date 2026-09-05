@@ -4,4 +4,4 @@ Plutonium-239 combines two ideas: a sealed, atomically updated root filesystem i
 
 The source-code will be published along with the 0.0.1 release.
 
-(For more information, please visit the website.)[www.pu-239.org]
+[For more information, please visit the website.](www.pu-239.org)
