@@ -1,6 +1,6 @@
 # Pu-239: atomic, unbreakable, lightning fast.
 
-Plutonium-239 combines two ideas: a sealed, atomically updated root filesystem inspired by SteamOS and Fedora Silverblue combined with a performance kernel, linux-cachyos, built from source and hosted on my own repository. This is the first distro where you don't have to make any compromise between ease of use + safety and bleeding-edge + performance optimizations.
+Plutonium-239 is Arch Linux, made atomic. It combines the rolling release model of Arch Linux with an atomically updated root filesystem inspired by SteamOS on top of the heavily optimized CachyOS performance kernel. Unlike immutable distributions that lock you out of the native package manager and force you into sandboxes, Pu-239 keeps the core Arch experience intact. You still get the full power of pacman and the official Arch repositories, with the peace of mind of an unbreakable safety net underneath.
 
 The source-code will be published along with the 0.0.1 release.
 
